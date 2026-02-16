@@ -574,7 +574,7 @@ def main():
 
 if __name__ == "__main__":
     # 执行主流程
-    # main()
+    main()
     
     # 可选：训练后直接进行推理示例
     inference = QwenLoraInference()
